@@ -1,0 +1,13 @@
+.md-typeset {
+    font-size: .6rem;
+    line-height: 1.6;
+}
+
+.md-nav {
+    font-size: .6rem;
+    line-height: 1.4;
+}
+
+.md-nav__link {
+    margin-top: .3em;
+}
